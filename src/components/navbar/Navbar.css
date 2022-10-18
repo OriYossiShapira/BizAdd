@@ -1,0 +1,46 @@
+.b_navbar-container {
+  background-color: rgb(4, 113, 203);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 85px;
+}
+
+.b_navbar-container > * {
+  padding: 8px;
+  display: flex;
+  -moz-column-gap: 16px;
+       column-gap: 16px;
+  flex-direction: row;
+  color: white;
+}
+
+.b_navbar_right-container {
+  gap: 22px;
+}
+
+.logo {
+  font-size: 36px;
+  box-shadow: 6px 6px red, 10px 10px yellow, 14px 14px green, 18px 18px violet;
+  border-radius: 12px;
+}
+
+.nav_icon {
+  position: relative;
+  bottom: 4.2px;
+}
+
+.services-link {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.about-us-link {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.home-link {
+  text-decoration: none;
+  color: white;
+}/*# sourceMappingURL=Navbar.css.map */

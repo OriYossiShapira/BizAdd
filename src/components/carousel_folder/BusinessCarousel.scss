@@ -1,0 +1,37 @@
+$small : 850px;
+$medium:1000px;
+$large:1250px;
+$x_large:1500px;
+.c_image {
+  width: 500px;
+  height: 180px;
+  position: relative;
+  left: 112px;
+  border-radius: 10px;
+  
+}
+
+.b_carousel {
+  position: relative;
+  width: 50%;
+  height: 100%;
+}
+.c_wrapper {
+  width: 100%;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  margin: 16px;
+}
+
+@media only screen and(max-width:$medium) {
+  .c_wrapper {
+    height:100px;
+  }
+  .c_image {
+    width: 300px;
+    height: 100%;
+  }
+}

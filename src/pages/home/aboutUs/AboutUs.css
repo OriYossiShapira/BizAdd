@@ -1,0 +1,27 @@
+.header-container {
+  width: 100%;
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  background-color: rgb(60, 62, 65);
+  opacity: 0.9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border-bottom-left-radius: 18px;
+  border-bottom-right-radius: 18px;
+  padding: 3px;
+  border-radius: 12px;
+}
+
+h1 {
+  font-size: 26px;
+  color: white;
+}
+
+p {
+  font-size: 19px;
+  color: white;
+  font-weight: 600;
+}/*# sourceMappingURL=AboutUs.css.map */

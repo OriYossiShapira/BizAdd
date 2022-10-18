@@ -1,0 +1,8 @@
+.page_holder {
+  width: 100%;
+  padding: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}/*# sourceMappingURL=PageHolder.css.map */
