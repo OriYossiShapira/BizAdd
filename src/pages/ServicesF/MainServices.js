@@ -2,7 +2,7 @@ import PageHolder from "../../components/page_holder/PageHolder";
 import Services from "./Services";
 import "./ServicesStyle.css";
 import 'animate.css';
-
+1
 function MainServices() {
   return (
     <>

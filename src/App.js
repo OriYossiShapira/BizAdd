@@ -12,11 +12,11 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/services" element={<MainServices />} />
-        <Route path="/aboutus" element={<AboutUs />} />
+        <Route path="/aboutus" element={<AboutUs />} />``
       </Routes>
     </>
   );
 }
-
+1
 export default App;
 

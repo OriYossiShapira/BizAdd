@@ -4,7 +4,7 @@ import "./AboutUs.css"
 import SpaIcon from '@mui/icons-material/Spa';
 import 'animate.css';
 import StorefrontIcon from '@mui/icons-material/Storefront';
-
+1
 
 
 

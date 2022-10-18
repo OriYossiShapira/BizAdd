@@ -3,7 +3,7 @@ import StorefrontIcon from '@mui/icons-material/Storefront';
 import { Link } from 'react-router-dom';
 import './Navbar.css'
 const IconStyle = {color:'white',fontSize:'38px'}
-
+1
 
 
 
